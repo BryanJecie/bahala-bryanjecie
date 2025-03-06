@@ -1,4 +1,6 @@
-# Assessment for Backend Developer Position
+# Assessment 
+
+this application designed to manage the working hours information of the store. <br> It provides endpoints for creating, updating, deleting, and listing <br>  The App is built using Laravel 10 and follows RESTful principles for easy integration with frontend vuejs applications.
 
 # Instructions & Prerequisites
 
